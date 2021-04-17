@@ -11,14 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        $usuario = "feipe";
-        $senha = 1234;
-        if ($usuario == "felipe" && $senha == 1234){
-            print "Acesso liberado!";
-        }
-        elseif($usuario != "felipe" || $senha != 1234){
-            print "Acesso negado!";
-        }
+        // put your code here
         ?>
     </body>
 </html>
